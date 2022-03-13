@@ -4,28 +4,6 @@ import java.util.*;
 
 /* --->>>>>  COMPLETED  100/100 <<<<<---- */
 public class HotelWiring {
-    /*
-     * M --> # of floors
-     * N --> # of rooms on each floor, each floor has master switch to control power of the floor
-     * On each floor, power is supplied to all room IF AND ONLY IF the switch is ON.
-     * However, the stupid electrician made a mistake and some rooms get power if switch is OFF
-     *
-     * input:
-     * T --> # of test cases
-     * M N K --> K = EXACT # of switches that will be turned OFF
-     * num1
-     * num2  --> num_i is the amount of correctly wired rooms on the i'th floor
-     * ...   --> out of M floors
-     * numM
-     *
-     * output:
-     * T integers (1 int per line) that show the max num of room that will receive power
-     * */
-    public static void main(String[] args) {
-        System.out.println(hotelWiring(2,1, new int[]{2,0})); // = 4
-        System.out.println(hotelWiring(4,2, new int[]{0,3})); // = 5
-    }
-
     public static long hotelWiring(int roomsInFloor, int numOfOffSwitches, int[] correctlyWired){
         long result = 0;
         int i;
