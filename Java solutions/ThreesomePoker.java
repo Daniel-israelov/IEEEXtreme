@@ -4,16 +4,6 @@ import java.util.*;
 
 /* --->>>>>  COMPLETED  100/100  <<<<<---- */
 public class ThreesomePoker {
-    public static void main(String[] arg){
-        Scanner in = new Scanner(System.in);
-        int[] startMoney = new int[3]; // the initial array of money
-
-        for (int i = 0; i < 3; i++)
-            startMoney[i] = in.nextInt();
-
-        threesomePoker(startMoney);
-    }
-
     public static void threesomePoker(int[] startMoney){
         int firstWinRow = -1, row;
         int maxRows = 797161; //max row is (265720*3)+1=797161
