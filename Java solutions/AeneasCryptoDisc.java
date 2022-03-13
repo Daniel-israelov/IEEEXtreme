@@ -5,28 +5,6 @@ import java.util.Scanner;
 
 /* --->>>>>  COMPLETED  100/100 <<<<<---- */
 public class AeneasCryptoDisc {
-    public static void main(String[] args) {
-        Scanner in = new Scanner(System.in);
-        int threadLength;
-        String phrase, letter;
-        double deg;
-        HashMap<String, Double> lettersDegrees = new HashMap<>();
-
-        threadLength = in.nextInt();
-
-        for(int i = 0; i < 26 ; i++){
-            letter = in.next();
-            deg = in.nextDouble();
-            lettersDegrees.put(letter, deg);
-        }
-        in.nextLine(); // clears buffer
-        phrase = in.nextLine();
-        in.close();
-
-        int result = length(phrase, threadLength, lettersDegrees);
-        System.out.println(result);
-    }
-
     public static int length(String phrase, int thread, HashMap<String, Double> letterDegree){
         double totalLength = thread, tempLength;
 
