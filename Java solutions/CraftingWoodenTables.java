@@ -4,27 +4,6 @@ import java.math.BigInteger;
 
 /* --->>>>>  COMPLETED  100/100 <<<<<---- */
 public class CraftingWoodenTables {
-    public static void main(String[] args) {
-        /*
-          C --> # of woods needed to craft a single table
-          N --> # of slots in pocket
-          P --> max amount of woods that can be stored in a slot
-          W --> total amount of pieces of wood
-
-          Constraints:
-          1 <= C, N, P, W <= 10^15  -->  that's why I use BigInteger
-          W <= N * P
-          C, N, P, W <= 10^6  for 60% of the data
-         */
-
-        //result = 2
-        System.out.println(tables3(4, 3, 3, 8));
-        //result = 1
-        System.out.println(tables3(2, 3, 3, 8));// skips the first if in the function
-        //result = 0
-        System.out.println(tables3(10, 3, 3, 8));
-    }
-
     public static BigInteger tables3(long woodsForTable, long slotsInPocket, long maxAmountInSlot, long totalWoods){
         BigInteger numOfCraftedTables, slotsWithWood, remainingWoods;
         BigInteger lft = BigInteger.ZERO;
