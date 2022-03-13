@@ -1,12 +1,16 @@
 # IEEEXtreme
 My solutions for the IEEEXtreme challenges.
-1. Aeneas' cryptographic dist (4th c. B.C) (JAVA)
-2. Mosaic decoration I (JAVA)
-3. Mosaic decoration II (JAVA)
-4. Hotel wiring (JAVA)
-5. Cragring wooden tables (JAVA)
-6. Rumour (C++)
-7. Minimum permutation (C++)
-8. RecXor (C++, Python)
-9. Product rectangle (C++)
-10. Threesome poker (JAVA)
+
+### Java Solutions (100/100):
+1. Aeneas' cryptographic dist (4th c. B.C).
+2. Crafting wooden tables.
+3. Hotel wiring.
+4. Mosaic decoration I.
+5. Mosaic decoration II.
+6. Threesome poker.
+
+### C++ Solutions (100/100):
+1. Minimum permutation.
+2. Product rectangle.
+3. RecXor.
+4. Rumour.
