@@ -5,27 +5,6 @@ import java.util.Scanner;
 
 /* --->>>>>  COMPLETED  100/100 <<<<<---- */
 public class MosaicDecoration {
-
-    public static void main(String[] args) {
-        Scanner in = new Scanner(System.in);
-        int bathRooms, blackCost, pinkCost, blackAmount, pinkAmount;
-        HashMap<Integer, int[]> roomNumTilesAmount = new HashMap<>();
-
-        bathRooms = in.nextInt();
-        blackCost = in.nextInt();
-        pinkCost = in.nextInt();
-
-        for(int i = 0; i < bathRooms; i++){
-            blackAmount = in.nextInt();
-            pinkAmount = in.nextInt();
-            roomNumTilesAmount.put(i+1, new int[]{blackAmount, pinkAmount});
-        }
-        in.close();
-
-        int result = calcCost(bathRooms, blackCost, pinkCost, roomNumTilesAmount);
-        System.out.println(result);
-    }
-
     public static int calcCost(int bathRoomsAmount, int blackCost, int pinkCost, HashMap<Integer, int[]> tilesPerRoom){
         int total;
         int blackSum = 0, pinkSum = 0, remainder;
