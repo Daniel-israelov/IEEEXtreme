@@ -1,5 +1,6 @@
 # IEEEXtreme
 My solutions for the IEEEXtreme challenges.
+Some challenges solved in more than 1 programming language.
 
 ### Java Solutions (100/100):
 1. Aeneas' cryptographic dist (4th c. B.C).
@@ -14,3 +15,6 @@ My solutions for the IEEEXtreme challenges.
 2. Product rectangle.
 3. RecXor.
 4. Rumour.
+
+### Python solutions (100/100):
+1. RecXor.
