@@ -3,23 +3,6 @@
 using namespace std;
 typedef long long ll;
 
-ll recXor(ll, ll, ll, ll, ll);
-ll xor_range(ll, ll);
-ll xor1(ll);
-
-int main() {
-    int t;
-    ll col, row, n;
-    ll d1, d2;
-    cin >> t;
-
-    for (int i = 0; i < t; i++) {
-        cin >> col >> row >> n >> d1 >> d2;
-
-        cout << recXor(col, row, n, d1, d2) << endl;
-    }
-}
-
 ll recXor(ll cols, ll rows, ll n, ll d1, ll d2) {
     ll d1_c = ((d1 - n) % cols) + 1;  //d1 current col index
     ll d2_c = ((d2 - n) % cols) + 1;  //d2 current col index
