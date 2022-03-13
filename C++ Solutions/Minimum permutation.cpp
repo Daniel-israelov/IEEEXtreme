@@ -5,34 +5,6 @@
 
 using namespace std;
 
-vector<int> minimumPermutation(vector<int>, set<int>);
-
-int main() {
-	int N, M;
-
-	N = 3;
-	M = 3;
-
-	vector<int> result;
-	vector<int> a;
-	set<int> s;
-
-	a.push_back(3);
-	a.push_back(1);
-	a.push_back(5);
-
-	s.insert(4);
-	s.insert(2);
-	s.insert(6);
-
-	result = minimumPermutation(a, s);
-
-	for (auto res : result)
-		cout << res << " ";
-
-	return 0;
-}
-
 vector<int> minimumPermutation(vector<int> A, set<int> S) {
 	string result;
 	int i = 0, num;
@@ -50,12 +22,10 @@ vector<int> minimumPermutation(vector<int> A, set<int> S) {
 		}
 		i++;
 	}
-
 	if (i == A.size() && !S.empty()) {
 		//if we reached the end of A and there are still elements left in S
 		for (auto s : S)
 			A.push_back(s);
 	}
-
 	return A;
 }
