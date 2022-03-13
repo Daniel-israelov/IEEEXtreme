@@ -1,5 +1,5 @@
 # IEEEXtreme
-My solutions for the IEEEXtreme challenges.
+My solutions for the IEEEXtreme challenges.  
 Some challenges solved in more than 1 programming language.
 
 ### Java Solutions (100/100):
