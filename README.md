@@ -3,7 +3,7 @@ My solutions for the IEEEXtreme challenges.
 Some challenges solved in more than 1 programming language.
 
 ### Java Solutions (100/100):
-1. Aeneas' cryptographic dist (4th c. B.C).
+1. Aeneas' cryptographic disc (4th c. B.C).
 2. Crafting wooden tables.
 3. Hotel wiring.
 4. Mosaic decoration I.
