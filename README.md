@@ -16,5 +16,5 @@ Several challenges are solved with multiple programming languages.
 3. RecXor.
 4. Rumour.
 
-### Python solutions (100/100):
+### Python Solutions (100/100):
 1. RecXor.
