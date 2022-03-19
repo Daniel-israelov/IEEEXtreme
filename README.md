@@ -9,6 +9,7 @@ Several challenges are solved with multiple programming languages.
 4. [Mosaic decoration I.](https://csacademy.com/ieeextreme-practice/task/mosaic1/)
 5. [Mosaic decoration II.](https://csacademy.com/ieeextreme-practice/task/mosaic2/)
 6. [Threesome poker.](https://www.hackerrank.com/contests/ieeextreme-challenges/challenges/threesome-poker)
+7. [Kabloom](https://www.hackerrank.com/contests/ieeextreme-challenges/challenges/kabloom)
 
 ### C++ Solutions (100/100):
 1. [Minimum permutation.](https://csacademy.com/ieeextreme-practice/task/minimum-permutation/)
