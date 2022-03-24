@@ -16,6 +16,7 @@ Several challenges are solved with multiple programming languages.
 2. [Product rectangle.](https://csacademy.com/ieeextreme-practice/task/product-rectangle/)
 3. [RecXor.](https://csacademy.com/ieeextreme-practice/task/f8d68dbb0c844910797ce64354c66143/)
 4. [Rumour.](https://csacademy.com/ieeextreme-practice/task/9ca8fafd184f553a903734761546a224/)
+5. [Block Art.](https://www.hackerrank.com/contests/ieeextreme-challenges/challenges/block-art)
 
 ### Python Solutions (100/100):
 1. [RecXor.](https://csacademy.com/ieeextreme-practice/task/f8d68dbb0c844910797ce64354c66143/)
