@@ -1,6 +1,5 @@
 # IEEEXtreme
-My solutions for the IEEEXtreme challenges.  
-Several challenges are solved with multiple programming languages.
+## My solutions for the IEEEXtreme challenges.  
 
 ### Java Solutions (100/100):
 1. [Aeneas' cryptographic disc (4th c. B.C).](https://csacademy.com/ieeextreme-practice/task/d48ada9a7213299f1b24b22b2fb9443f/)
@@ -12,11 +11,11 @@ Several challenges are solved with multiple programming languages.
 7. [Kabloom](https://www.hackerrank.com/contests/ieeextreme-challenges/challenges/kabloom)
 
 ### C++ Solutions (100/100):
-1. [Minimum permutation.](https://csacademy.com/ieeextreme-practice/task/minimum-permutation/)
-2. [Product rectangle.](https://csacademy.com/ieeextreme-practice/task/product-rectangle/)
-3. [RecXor.](https://csacademy.com/ieeextreme-practice/task/f8d68dbb0c844910797ce64354c66143/)
-4. [Rumour.](https://csacademy.com/ieeextreme-practice/task/9ca8fafd184f553a903734761546a224/)
-5. [Block Art.](https://www.hackerrank.com/contests/ieeextreme-challenges/challenges/block-art)
+1. [Block Art.](https://www.hackerrank.com/contests/ieeextreme-challenges/challenges/block-art)
+2. [Minimum permutation.](https://csacademy.com/ieeextreme-practice/task/minimum-permutation/)
+3. [Product rectangle.](https://csacademy.com/ieeextreme-practice/task/product-rectangle/)
+4. [RecXor.](https://csacademy.com/ieeextreme-practice/task/f8d68dbb0c844910797ce64354c66143/)
+5. [Rumour.](https://csacademy.com/ieeextreme-practice/task/9ca8fafd184f553a903734761546a224/)
 
 ### Python Solutions (100/100):
 1. [RecXor.](https://csacademy.com/ieeextreme-practice/task/f8d68dbb0c844910797ce64354c66143/)
