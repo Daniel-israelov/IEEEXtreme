@@ -9,6 +9,7 @@
 5. [Mosaic decoration II.](https://csacademy.com/ieeextreme-practice/task/mosaic2/)
 6. [Threesome poker.](https://www.hackerrank.com/contests/ieeextreme-challenges/challenges/threesome-poker)
 7. [Kabloom](https://www.hackerrank.com/contests/ieeextreme-challenges/challenges/kabloom)
+8. [Pattern 3](https://www.hackerrank.com/contests/ieeextreme-challenges/challenges/pattern-3)
 
 ### C++ Solutions (100/100):
 1. [Block Art.](https://www.hackerrank.com/contests/ieeextreme-challenges/challenges/block-art)
@@ -19,3 +20,5 @@
 
 ### Python Solutions (100/100):
 1. [RecXor.](https://csacademy.com/ieeextreme-practice/task/f8d68dbb0c844910797ce64354c66143/)
+2. [Pattern 3](https://www.hackerrank.com/contests/ieeextreme-challenges/challenges/pattern-3)
+3. [Goldbach's Second Conjecture](https://www.hackerrank.com/contests/ieeextreme-challenges/challenges/goldbachs-second-conjecture)
