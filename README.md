@@ -10,6 +10,7 @@
 6. [Threesome poker.](https://www.hackerrank.com/contests/ieeextreme-challenges/challenges/threesome-poker)
 7. [Kabloom](https://www.hackerrank.com/contests/ieeextreme-challenges/challenges/kabloom)
 8. [Pattern 3](https://www.hackerrank.com/contests/ieeextreme-challenges/challenges/pattern-3)
+9. [BeetleBag](https://csacademy.com/ieeextreme-practice/task/ed8629419f140a5a2c923b049aba1224/statement)
 
 ### C++ Solutions (100/100):
 1. [Block Art.](https://www.hackerrank.com/contests/ieeextreme-challenges/challenges/block-art)
