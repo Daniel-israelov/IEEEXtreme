@@ -24,3 +24,4 @@
 1. [RecXor.](https://csacademy.com/ieeextreme-practice/task/f8d68dbb0c844910797ce64354c66143/)
 2. [Pattern 3](https://www.hackerrank.com/contests/ieeextreme-challenges/challenges/pattern-3)
 3. [Goldbach's Second Conjecture](https://www.hackerrank.com/contests/ieeextreme-challenges/challenges/goldbachs-second-conjecture)
+4. [Full Adder](https://www.hackerrank.com/contests/ieeextreme-challenges/challenges/full-adder/problem)
