@@ -25,3 +25,4 @@
 2. [Pattern 3](https://www.hackerrank.com/contests/ieeextreme-challenges/challenges/pattern-3)
 3. [Goldbach's Second Conjecture](https://www.hackerrank.com/contests/ieeextreme-challenges/challenges/goldbachs-second-conjecture)
 4. [Full Adder](https://www.hackerrank.com/contests/ieeextreme-challenges/challenges/full-adder/problem)
+5. [Lemons](https://csacademy.com/ieeextreme-practice/task/lemons/)
