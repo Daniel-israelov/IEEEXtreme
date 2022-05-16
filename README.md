@@ -26,3 +26,4 @@
 3. [Goldbach's Second Conjecture](https://www.hackerrank.com/contests/ieeextreme-challenges/challenges/goldbachs-second-conjecture)
 4. [Full Adder](https://www.hackerrank.com/contests/ieeextreme-challenges/challenges/full-adder/problem)
 5. [Lemons](https://csacademy.com/ieeextreme-practice/task/lemons/)
+6. [Light Gremlins](https://www.hackerrank.com/contests/ieeextreme-challenges/challenges/light-gremlins)
