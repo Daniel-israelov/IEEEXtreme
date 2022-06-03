@@ -12,6 +12,7 @@
 7. [Kabloom](https://www.hackerrank.com/contests/ieeextreme-challenges/challenges/kabloom)
 8. [Pattern 3](https://www.hackerrank.com/contests/ieeextreme-challenges/challenges/pattern-3)
 9. [BeetleBag](https://csacademy.com/ieeextreme-practice/task/ed8629419f140a5a2c923b049aba1224/statement)
+10. [Inti Sets](https://www.hackerrank.com/contests/ieeextreme-challenges/challenges/inti-sets)
 
 ### C++ Solutions (100/100):
 1. [Block Art.](https://www.hackerrank.com/contests/ieeextreme-challenges/challenges/block-art)
@@ -27,3 +28,4 @@
 4. [Full Adder](https://www.hackerrank.com/contests/ieeextreme-challenges/challenges/full-adder/problem)
 5. [Lemons](https://csacademy.com/ieeextreme-practice/task/lemons/)
 6. [Light Gremlins](https://www.hackerrank.com/contests/ieeextreme-challenges/challenges/light-gremlins)
+7. [Car Spark](https://www.hackerrank.com/contests/ieeextreme-challenges/challenges/car-spark)
