@@ -29,3 +29,4 @@
 5. [Lemons](https://csacademy.com/ieeextreme-practice/task/lemons/)
 6. [Light Gremlins](https://www.hackerrank.com/contests/ieeextreme-challenges/challenges/light-gremlins)
 7. [Car Spark](https://www.hackerrank.com/contests/ieeextreme-challenges/challenges/car-spark)
+8. [Telescope Scheduling](https://csacademy.com/ieeextreme-practice/task/telescope-scheduling/)
