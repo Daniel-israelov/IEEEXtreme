@@ -12,6 +12,7 @@
 8. [Pattern 3](https://www.hackerrank.com/contests/ieeextreme-challenges/challenges/pattern-3)
 9. [BeetleBag](https://csacademy.com/ieeextreme-practice/task/ed8629419f140a5a2c923b049aba1224/statement)
 10. [Inti Sets](https://www.hackerrank.com/contests/ieeextreme-challenges/challenges/inti-sets)
+11. [Fibonacci](https://csacademy.com/ieeextreme-practice/task/09f92a575cc006d4a6a7f525f370ec30/)
 
 ### C++ Solutions (100/100):
 1. [Block Art.](https://www.hackerrank.com/contests/ieeextreme-challenges/challenges/block-art)
